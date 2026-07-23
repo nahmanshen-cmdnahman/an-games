@@ -1,22 +1,21 @@
-game,url
-מבוך,https://an-games.vercel.app/maze
-TranClick - תרגום בקליק,https://tranclick.vercel.app
-איקס-עיגול,https://nahman-shenfeld-469405.my.canva.site/omc-x-o
-משחק הזיכרון,https://an-games.vercel.app/memory
-מטוסים,https://an-games.vercel.app/airplanes
-ריבועים זוהרים,https://an-games.vercel.app/Neon%20dodge
-Watch-pro,https://an-games.vercel.app/Stream%20Pro
-Murder black,https://an-games.vercel.app/Murder%20black
-סביבת עריכת קוד משותפת,https://gemini.google.com/share/fbc6d95d7fbc
-ארבע בריבוע,https://share.gemini.google/H1Q4H3HLF1Im
-PixelArt Space,https://gemini.google.com/share/51453db1c621
-סמיילים זוהרים,https://meirkids.co.il/uploadgames/55/NEON_SMILEY_DASH_MAIN/?0.3
-3 דקות לברוח,https://meirkids.co.il/uploadgames/55/MinuteMissionC32026/?0.3
-מבוך החתול,https://meirkids.co.il/uploadgames/55/3d-maze-cat-production/?0.3
-כיבוי אורות,https://meirkids.co.il/uploadgames/55/SwitchOffC3/?0.3
-רובוט רובוט,https://meirkids.co.il/uploadgames/55/WakeUpBotC3/?0.3
-איש שור כלב רוח,https://meirkids.co.il/uploadgames/55/DungeonAdventurersC326?0.3
-פסנתר וירטואלי,https://meirkids.co.il/uploadgames/55/VirtuPianoPianoC3/?0.3
-פקמן רמאים,https://an-games.vercel.app/pacman.html
-הוראות שימוש לכל המשחקים,https://nahman-shenfeld-469405.my.canva.site/omc/instructions-for-use
-צור קשר,https://nahman-shenfeld-469405.my.canva.site/contact
+game,url,about
+מבוך,https://an-games.vercel.app/maze,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/maze.txt
+TranClick - תרגום בקליק,https://tranclick.vercel.app,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/tranclick.txt
+איקס-עיגול,https://nahman-shenfeld-469405.my.canva.site/omc-x-o,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/x-o.txt
+משחק הזיכרון,https://an-games.vercel.app/memory,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/memory.txt
+מטוסים,https://an-games.vercel.app/airplanes,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/airplanes.txt
+ריבועים זוהרים,https://an-games.vercel.app/Neon%20dodge,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/neon.txt
+Watch-pro,https://an-games.vercel.app/Stream%20Pro,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/stream-pro.txt
+Murder black,https://an-games.vercel.app/Murder%20black,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/murder.txt
+סביבת עריכת קוד משותפת,https://gemini.google.com/share/fbc6d95d7fbc,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/code.txt
+ארבע בריבוע,https://share.gemini.google/H1Q4H3HLF1Im,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/4.txt
+PixelArt Space,https://gemini.google.com/share/51453db1c621,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/pixel.txt
+סמיילים זוהרים,https://meirkids.co.il/uploadgames/55/NEON_SMILEY_DASH_MAIN/?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+3 דקות לברוח,https://meirkids.co.il/uploadgames/55/MinuteMissionC32026/?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+מבוך החתול,https://meirkids.co.il/uploadgames/55/3d-maze-cat-production/?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+כיבוי אורות,https://meirkids.co.il/uploadgames/55/SwitchOffC3/?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+רובוט רובוט,https://meirkids.co.il/uploadgames/55/WakeUpBotC3/?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+איש שור כלב רוח,https://meirkids.co.il/uploadgames/55/DungeonAdventurersC326?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+פסנתר וירטואלי,https://meirkids.co.il/uploadgames/55/VirtuPianoPianoC3/?0.3,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/meirkids.txt
+פקמן רמאים,https://an-games.vercel.app/pacman.html,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/pacman.txt
+צור קשר,https://nahman-shenfeld-469405.my.canva.site/contact,https://raw.githubusercontent.com/nahmanshen-cmdnahman/an-games/main/info/contact.txt
